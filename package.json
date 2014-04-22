@@ -1,6 +1,6 @@
 {
   "name": "hebi-cloudstore",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cloud Store Libs for Aliyun, UPYun, and perhaps for others",
   "main": "index.js",
   "dependencies": {
